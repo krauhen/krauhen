@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Henning.
 - 👀 I’m interested in Machine Learning with a focus on Computer Vision.
 - 🌱 I’m currently learning details of LLMs/General Transformer.
-- 💞️ I’m looking to collaborate on everything?!
 - 📫 How to reach me: PM
 - 😄 Pronouns: He/Him
 
